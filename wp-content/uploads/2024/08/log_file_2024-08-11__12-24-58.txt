@@ -1,0 +1,34 @@
+
+---Downloaded files---
+The import files for: 01. Magazine were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://demo.sandhyadeep.in
+Data file = /home/sandhyadeep-blog-latest/wordpress/wp-content/uploads/2024/08/demo-content-import-file_2024-08-11__12-24-58.xml
+Widget file = /home/sandhyadeep-blog-latest/wordpress/wp-content/uploads/2024/08/demo-widgets-import-file_2024-08-11__12-24-58.json
+Customizer file = /home/sandhyadeep-blog-latest/wordpress/wp-content/uploads/2024/08/demo-customizer-import-file_2024-08-11__12-24-58.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar : 
+
+Custom HTML - No Title - Imported
+Katen Popular Posts - Popular Posts - Widget already exists
+Categories - Explore Topics - Widget already exists
+Mailchimp Sign-Up Form - Newsletter - Imported
+Katen Posts Carousel - Celebration - Widget already exists
+Custom HTML - No Title - Imported
+Tag Cloud - Tag Clouds - Widget already exists
+
+Footer Instagram Widget Area : 
+
+Custom HTML - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

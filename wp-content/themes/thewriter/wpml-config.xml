@@ -1,0 +1,13 @@
+<wpml-config>
+	<admin-texts>
+		<key name="thewriter_options">
+			<key name="top_header--text_content" />
+			<key name="header--text_content" />
+			<key name="bottom_footer--text_content" />
+			<key name="posts--desc" />
+			<key name="products--catalog_mode_text" />
+			<key name="single_product--extra_tab_title" />
+			<key name="single_product--extra_tab_conten" />
+		</key>
+	</admin-texts>
+</wpml-config>

@@ -1,0 +1,1 @@
+<span class="post-masonry_date"><?php esc_html_e('on ', 'thewriter'); ?><time datetime="<?php echo esc_attr(get_the_date('c')); ?>"><?php echo esc_html(get_the_date()); ?></time></span>

@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'futura-headline';
+	src: url('FuturaNowHeadline-Bd.woff2') format('woff2'),
+	     url('FuturaNowHeadline-Bd.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+}

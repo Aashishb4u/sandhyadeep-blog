@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: 07. Catalog were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://demo.sandhyadeep.in
+Data file = /home/sandhyadeep-blog-latest/wordpress/wp-content/uploads/2024/08/demo-content-import-file_2024-08-11__12-29-18.xml
+Widget file = /home/sandhyadeep-blog-latest/wordpress/wp-content/uploads/2024/08/demo-widgets-import-file_2024-08-11__12-29-18.json
+Customizer file = /home/sandhyadeep-blog-latest/wordpress/wp-content/uploads/2024/08/demo-customizer-import-file_2024-08-11__12-29-18.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar : 
+
+Custom HTML - No Title - Widget already exists
+Katen Popular Posts - Popular Posts - Widget already exists
+Categories - Explore Topics - Widget already exists
+Katen Posts Carousel - Celebration - Widget already exists
+Custom HTML - No Title - Widget already exists
+Tag Cloud - Tag Clouds - Widget already exists
+
+WooCommerce Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Instagram Widget Area : 
+
+Custom HTML - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
